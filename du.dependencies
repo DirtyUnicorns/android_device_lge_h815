@@ -30,6 +30,11 @@
     "branch":      "n-caf"
   },
   {
+    "repository":  "DirtyUnicorns/android_vendor_qcom_binaries",
+    "target_path": "vendor/qcom/binaries",
+    "branch":      "n-caf"
+  },
+  {
     "repository":  "DirtyUnicorns/android_vendor_lge",
     "target_path": "vendor/lge",
     "branch":      "n-caf"
