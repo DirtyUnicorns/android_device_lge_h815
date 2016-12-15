@@ -3,9 +3,6 @@ $(call inherit-product, device/lge/h815/full_h815.mk)
 # Inherit some common DU stuff.
 $(call inherit-product, vendor/du/config/common_full_phone.mk)
 
-# Enhanced NFC
-$(call inherit-product, vendor/du/config/nfc_enhanced.mk)
-
 PRODUCT_NAME := du_h815
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
