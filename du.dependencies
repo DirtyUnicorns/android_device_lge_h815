@@ -2,41 +2,41 @@
   {
     "repository":  "DirtyUnicorns/android_device_lge_g4-common",
     "target_path": "device/lge/g4-common",
-    "branch":      "n-caf"
+    "branch":      "n7x-caf"
   },
   {
     "repository":  "DirtyUnicorns/android_system_qcom",
     "target_path": "system/qcom",
-    "branch":      "n-caf"
+    "branch":      "n7x-caf"
   },
   {
     "repository":  "DirtyUnicorns/android_external_connectivity",
     "target_path": "external/connectivity",
-    "branch":      "n-caf"
+    "branch":      "n7x-caf"
   },
   {
     "repository":  "DirtyUnicorns/android_kernel_lge_msm8992",
     "target_path": "kernel/lge/msm8992",
-    "branch":      "n-caf"
+    "branch":      "n7x-caf"
   },
   {
     "repository":  "DirtyUnicorns/android_hardware_sony_thermanager",
     "target_path": "hardware/sony/thermanager",
-    "branch":      "n-caf"
+    "branch":      "n7x-caf"
   },
   {
     "repository":  "DirtyUnicorns/android_hardware_sony_timekeep",
     "target_path": "hardware/sony/timekeep",
-    "branch":      "n-caf"
+    "branch":      "n7x-caf"
   },
   {
     "repository":  "DirtyUnicorns/android_vendor_qcom_binaries",
     "target_path": "vendor/qcom/binaries",
-    "branch":      "n-caf"
+    "branch":      "n7x-caf"
   },
   {
     "repository":  "DirtyUnicorns/android_vendor_lge",
     "target_path": "vendor/lge",
-    "branch":      "n-caf"
+    "branch":      "n7x-caf"
   }
 ]
